@@ -218,7 +218,7 @@ Retail-Demand-Forecasting
 **Ramandeep Singh**
 
 * GitHub: https://github.com/ramandeepp1403
-* LinkedIn: *(Add your LinkedIn profile URL here)*
+* LinkedIn: *https://www.linkedin.com/in/ramandeep-pandi/*
 
 ---
 

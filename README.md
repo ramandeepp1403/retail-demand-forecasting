@@ -151,8 +151,8 @@ These results indicate that the model explains approximately **91% of the varian
 
 ## 📸 Application Preview
 
+<img width="821" height="772" alt="Screenshot 2026-06-27 024354" src="https://github.com/user-attachments/assets/5a192a26-86eb-4eb0-bfb8-8655bbe73a23" />
 <img width="1907" height="1008" alt="Screenshot 2026-06-27 000632" src="https://github.com/user-attachments/assets/735ec527-3b7c-4fb5-87c8-f07f396a1492" />
-
 
 
 ---
